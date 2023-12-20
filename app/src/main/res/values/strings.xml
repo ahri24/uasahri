@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="nama">Nama</string>
+    <string name="description">description</string>
+    <string-array name="judul_music">
+        <item>akordeon</item>
+        <item>biola</item>
+        <item>clarinet</item>
+        <item>drum</item>
+        <item>erhu</item>
+        <item>flute</item>
+        <item>gitar</item>
+        <item>harmonica</item>
+        <item>harpa</item>
+        <item>keyboard</item>
+        <item>sax</item>
+        <item>sns</item>
+        <item>trumpet</item>
+        <item>xylophone</item>
+        <item>glockenspiel</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+       <item>Nikmati keindahan dunia dongeng melalui perjalanan ajaib di tengah
+            jalan yang dipenuhi oleh pohon-pohon sakura yang mekar. Video ini mengajak
+            anda untuk merasakan pesona musim semi yang magis, di mana setiap langkah
+            memberikan pengalaman penuh keajaiban. Terpesona oleh bunga sakura yang
+            lembut berkibar di sepanjang jalan, Anda akan dibawa dalam petualangan visual
+            yang memukau, dihiasi dengan warna-warni dan keindahan yang hanya bisa ditemui
+            di dalam dongeng. </item>
+        <item>Ini kisah yang memikat dan penuh dengan keindahan visual.
+            Dalam video ini, penonton akan diajak masuk ke dalam dunia dongeng
+            yang penuh dengan keajaiban dan daya tarik estetika. Cermin estetik
+            menjadi pusat cerita, menciptakan suasana yang magis dan memikat.</item>
+        <item>Video ini adalah sebuah karya seni visual yang memukau, menampilkan
+            keindahan pemandangan langit dan awan. Dalam atmosfer yang dipenuhi
+            keajaiban, awan-awan bergerak dengan lembut, membentuk pola yang menakjubkan
+            dan memberikan nuansa keanggunan pada langit. Cahaya matahari yang
+            berubah-ubah menciptakan permainan warna yang memukau, mulai dari nuansa
+            oranye hangat hingga biru langit yang tenang.</item>
+        <item>Video ini mempersembahkan keindahan dan ketenangan
+            suasana pantai pada malam hari dalam nuansa dongeng. Dengan gemerlap cahaya
+            bulan yang memantulkan kilauan lembut di permukaan air, pantai ini menjadi
+            tempat magis di mana pesona alam bergabung dengan keajaiban malam. </item>
+        <item>Video ini menghadirkan keindahan sebuah pantai yang begitu memesona pada
+            malam hari. Langit dihiasi oleh gemintang yang bersinar indah, menciptakan
+            suasana romantis dan magis. Suara ombak yang lembut menjadi latar yang menenangkan,
+            sementara cahaya bulan memantulkan kilauan di permukaan air laut. Pasir pantai
+            yang halus menyentuh lembut kaki, sementara pepohonan di sekitar pantai menambah
+            kesan alami dan tenang. </item>
+        <item>Lagu soundtrack untuk film Tangled berjudul "I See the Light" adalah sebuah balada
+            romantis yang indah. Dinyanyikan oleh Mandy Moore dan Zachary Levi, lagu ini menggambarkan
+            momen pencerahan dan keajaiban ketika dua karakter utama, Rapunzel dan Flynn Rider, mulai
+            menyadari perasaan romantis mereka satu sama lain. </item>
+        <item>Lagu-lagu Disney dikenal karena menyajikan pengalaman musik yang menyenangkan, penuh
+            imajinasi, dan penuh emosi. Mereka seringkali menjadi bagian integral dari film-film
+            animasi Disney yang ikonik. Lagu-lagu ini cenderung memiliki melodi yang mudah diingat,
+            lirik yang mendalam, dan seringkali menyampaikan pesan moral atau emosional. </item>
+        <item>"Lagu Sofia the First" merupakan lagu tema dari serial animasi Disney Channel yang
+            berjudul sama. Lagu ini menceritakan tentang perjalanan seorang gadis kecil bernama Sofia
+            yang tiba-tiba menjadi seorang putri setelah ibunya menikahi raja. Dengan lirik yang penuh
+            semangat, lagu ini mengeksplorasi tema persahabatan, petualangan, dan perubahan hidup yang
+            dialami Sofia ketika ia belajar menjadi seorang putri.</item>
+        <item>Video langit pink ungu pada senja menampilkan pemandangan yang menakjubkan dan memukau
+            saat matahari terbenam. Langit berubah menjadi kombinasi warna pink dan ungu yang lembut,
+            menciptakan suasana romantis dan tenang. Siluet pepohonan atau bangunan mungkin tampak
+            di latar belakang, menambah keindahan panorama senja ini. </item>
+        <item>"Remember Me" adalah sebuah lagu yang memiliki lirik yang menggambarkan kerinduan dan
+            harapan agar seseorang diingat dan tetap hidup dalam kenangan. Lagu ini mungkin menyentuh
+            tema tentang hubungan yang berakhir atau kepergian seseorang, dengan pesan bahwa meskipun
+            fisiknya mungkin tidak ada lagi, kenangan dan pengaruhnya tetap abadi</item>
+        <item>Video kucing lucu ini menghadirkan momen-momen menggemaskan dan menghibur dari kehidupan
+        sehari-hari kucing. Dari kelucuan tingkah polah hingga ekspresi wajah yang menggemaskan,
+        setiap adegan di dalam video ini akan membuat penonton tersenyum dan bahkan tertawa.
+        Bersiaplah untuk menyaksikan aksi-aksi imut kucing yang membuat hati hangat dan mengusir stres.</item>
+        <item>Video ini adalah dosis kebahagiaan yang sempurna untuk menghibur dan menyenangkan pecinta
+        kucing serta siapa pun yang menyukai momen-momen lucu.</item>
+        <item>Dengan melodi yang ceria dan lirik yang catchy, lagu ini memperkenalkan pendengar
+        pada karakter utama, SpongeBob SquarePants, dan suasana kota bawah laut, Bikini Bottom.
+        Lagu ini menjadi ikonik dan melekat dalam ingatan penonton sebagai bagian integral dari
+        waralaba SpongeBob.</item>
+        <item>Video ini memperlihatkan keindahan hujan yang lembut dan menenangkan.
+        Tetesan air hujan jatuh dengan lembut ke tanah, menciptakan pemandangan yang penuh ketenangan.
+        Suara hujan yang gemericik menambah atmosfer damai, sementara tetesan air menggema
+        di permukaan berbagai objek.</item>
+        <item>Video mahkota dapat menjadi cuplikan visual yang menampilkan keindahan, kejayaan, atau makna
+        simbolis dari sebuah mahkota. Dalam video ini, mungkin Anda akan melihat detil-detil artistik dari
+        mahkota tersebut, kilauan permata yang memikat, serta momen ketika mahkota itu dikenakan oleh
+        penerima atau tokoh penting. Suara latar yang anggun atau musik yang megah mungkin akan menemani
+        visual ini, menambahkan nuansa kemegahan dan keagungan pada pengalaman menyaksikan. </item>
+    </string-array>
+    <array name="music_id">
+        <item>@raw/akordeon</item>
+        <item>@raw/biola</item>
+        <item>@raw/clarinet</item>
+        <item>@raw/drum</item>
+        <item>@raw/erhu</item>
+        <item>@raw/flute</item>
+        <item>@raw/gitar</item>
+        <item>@raw/harmonica</item>
+        <item>@raw/harpa</item>
+        <item>@raw/keyboard</item>
+        <item>@raw/sax</item>
+        <item>@raw/sns</item>
+        <item>@raw/trumpet</item>
+        <item>@raw/xylophone</item>
+        <item>@raw/glockenspiel</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/akordeon</item>
+        <item>@drawable/biola</item>
+        <item>@drawable/clarinet</item>
+        <item>@drawable/drum</item>
+        <item>@drawable/erhu</item>
+        <item>@drawable/flute</item>
+        <item>@drawable/gitar</item>
+        <item>@drawable/harmonica</item>
+        <item>@drawable/harpa</item>
+        <item>@drawable/keyboard</item>
+        <item>@drawable/sax</item>
+        <item>@drawable/sns</item>
+        <item>@drawable/trumpet</item>
+        <item>@drawable/xylophone</item>
+        <item>@drawable/glockenspiel</item>
+
+    </integer-array>
+</resources>

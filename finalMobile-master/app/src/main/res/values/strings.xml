@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="nama">Nama</string>
+    <string name="description">description</string>
+    <string-array name="judul_music">
+        <item>akordeon</item>
+        <item>biola</item>
+        <item>clarinet</item>
+        <item>drum</item>
+        <item>erhu</item>
+        <item>flute</item>
+        <item>gitar</item>
+        <item>harmonica</item>
+        <item>harpa</item>
+        <item>keyboard</item>
+        <item>sax</item>
+        <item>sns</item>
+        <item>trumpet</item>
+        <item>xylophone</item>
+        <item>glockenspiel</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+
+        <item>Akordeon adalah alat musik yang sangat unik. Ini adalah jenis alat musik gesek yang dimainkan dengan menggerakkan balok udara melalui bel pada setiap sisi alat musik. Biasanya memiliki tombol di satu sisi dan lempengan logam yang menghasilkan suara di sisi lainnya. Bagaimana menurutmu, apakah akordeon lebih cocok untuk musik tradisional atau mungkin untuk genre musik yang lebih modern.</item>
+        <item>Biola adalah alat musik dawai yang dimainkan dengan cara digesek. Biasanya memiliki empat senar, disetel dalam interval sempurna, dan dimainkan dengan menggunakan busur yang dilapisi dengan resin. Suara yang dihasilkan oleh biola sangat khas dan dapat menciptakan melodi yang indah. Apakah kamu tertarik dengan musik biola atau bahkan memainkannya sendiri.</item>
+        <item>Clarinet adalah alat musik tiup kayu yang terbuat dari kayu atau bahan sintetis modern. Ini memiliki bentuk seperti tabung dengan lubang-lubang dan satu membran anjing laut di dalamnya yang bergetar ketika udara ditiup melalui instrumen. Ada berbagai jenis clarinet, seperti clarinet soprano, alto, tenor, dan bass.</item>
+        <item>Drum adalah alat musik perkusi yang terdiri dari membran yang direntangkan di atas rangka atau tabung. Ada berbagai jenis drum, termasuk snare drum, bass drum, tom-tom, dan lainnya. Drum dimainkan dengan menggunakan stik, tangan, atau kombinasi keduanya.</item>
+        <item>Erhu adalah alat musik dawai gesek tradisional Tiongkok. Alat musik ini memiliki dua senar yang direntangkan di atas batang kayu panjang dengan resonator kecil di bagian bawah. Pemain erhu menggunakan busur yang dilapisi dengan bulu untuk menghasilkan suara dengan cara menggesek senar.</item>
+        <item>Flute adalah alat musik tiup yang terbuat dari logam atau serat kaca. Ada berbagai jenis flute, tetapi yang paling umum adalah flute logam (seperti flute konser) dan flute serat kaca (seperti flute piccolo). Flute dimainkan dengan meniupkan udara ke dalam lubang-lubang pada instrumen dan mengatur nada dengan memvariasikan posisi jari di atas lubang-lubang tersebut.</item>
+        <item>Gitar adalah alat musik dawai yang paling populer dan serbaguna. Biasanya memiliki enam senar, gitar dimainkan dengan cara memetik atau memetik senar menggunakan jari atau alat pemukul khusus yang disebut pick. Gitar dapat terbuat dari kayu, serat kaca, atau bahan lainnya.</item>
+        <item>Glockenspiel adalah alat musik perkusi yang terdiri dari sejumlah kecil plat logam yang diatur berdasarkan nada-nada tertentu. Plat-plat tersebut dipukul dengan menggunakan palu atau stik, menghasilkan suara yang cerah dan melodi. Glockenspiel sering digunakan dalam ansambel musik, orkestra, dan band, serta sering kali menjadi bagian dari instrumen musik untuk anak-anak.</item>
+        <item>Harmonika adalah alat musik tiup yang memungkinkan pemainnya menghasilkan suara dengan cara meniup atau menghisap udara melalui lubang-lubang kecil pada instrumen tersebut. Harmonika terdiri dari reed (lembaran logam yang bergetar) di dalamnya, dan suara dihasilkan ketika udara mengalir melalui reed tersebut.</item>
+        <item>Harpa adalah alat musik dawai yang kuno dan elegan. Ini terdiri dari rangka kayu atau logam dengan sejumlah senar yang direntangkan di atasnya. Senar-senar tersebut dimainkan dengan cara dipetik menggunakan jari atau kuku. Harpa dapat memiliki berbagai ukuran, dari harpa kecil yang dapat dipeluk hingga harpa konser yang besar dan mewah.</item>
+        <item>Keyboard dapat merujuk pada dua hal yang berbeda, tergantung pada konteksnya. Pertama, keyboard bisa merujuk pada bagian dari instrumen musik seperti piano atau synthesizer yang memiliki serangkaian tuts atau kunci yang dapat dimainkan untuk menghasilkan suara.</item>
+        <item>Saxophone adalah alat musik tiup kayu yang ditemukan oleh Adolphe Sax pada abad ke-19. Alat musik ini terbuat dari logam dan memiliki bentuk yang unik, dengan leher melengkung dan corong yang melebar. Saxophone tersedia dalam berbagai ukuran dan rentang nada, termasuk soprano, alto, tenor, dan bariton.</item>
+        <item>Prada adalah merek mode mewah asal Italia yang terkenal dengan desain yang inovatif dan elegan. Didirikan pada tahun 1913 oleh Mario Prada, merek ini awalnya dikenal dengan produksi tas kulit dan barang-barang perjalanan. Namun, di bawah kepemimpinan cucunya, Miuccia Prada, Prada telah berkembang menjadi merek mode global yang menawarkan berbagai produk, termasuk pakaian, sepatu, aksesori, dan parfum.</item>
+        <item>Trumpet adalah alat musik tiup logam yang sangat populer. Ini terbuat dari kuningan atau logam lainnya dan memiliki bentuk yang khas dengan corong melengkung yang membesar. Trumpet memiliki lubang-lubang kunci dan sebuah bibir (cup) pemain yang memainkan nada dengan meniupkan udara ke dalam corong dan menyesuaikan kunci dengan menggunakan jari.</item>
+        <item>Xylophone adalah alat musik perkusi yang terdiri dari rangka kayu atau logam dengan sejumlah balok yang disusun berurutan. Balok-balok tersebut memiliki panjang yang berbeda, dan setiap balok menghasilkan nada yang berbeda saat dipukul dengan stik atau palu.</item>    </string-array>
+    <array name="music_id">
+        <item>@raw/akordeon</item>
+        <item>@raw/biola</item>
+        <item>@raw/clarinet</item>
+        <item>@raw/drum</item>
+        <item>@raw/erhu</item>
+        <item>@raw/flute</item>
+        <item>@raw/gitar</item>
+        <item>@raw/harmonica</item>
+        <item>@raw/harpa</item>
+        <item>@raw/keyboard</item>
+        <item>@raw/sax</item>
+        <item>@raw/sns</item>
+        <item>@raw/trumpet</item>
+        <item>@raw/xylophone</item>
+        <item>@raw/glockenspiel</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/akordeon</item>
+        <item>@drawable/biola</item>
+        <item>@drawable/clarinet</item>
+        <item>@drawable/drum</item>
+        <item>@drawable/erhu</item>
+        <item>@drawable/flute</item>
+        <item>@drawable/gitar</item>
+        <item>@drawable/harmonica</item>
+        <item>@drawable/harpa</item>
+        <item>@drawable/keyboard</item>
+        <item>@drawable/sax</item>
+        <item>@drawable/sns</item>
+        <item>@drawable/trumpet</item>
+        <item>@drawable/xylophone</item>
+        <item>@drawable/glockenspiel</item>
+
+    </integer-array>
+</resources>
